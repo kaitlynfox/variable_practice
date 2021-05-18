@@ -14,3 +14,6 @@ has_a_dog = true
 
 # array
 dog_names = ["Gary", "Toshi"]
+
+# hashes
+dog = {name: "Gary", breed: "Border Collie"}
