@@ -7,3 +7,7 @@ age = 100
 
 # floats
 bank_account_amount = 7.25
+
+# boolean
+is_hungry = true
+has_a_dog = true
